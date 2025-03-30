@@ -52,7 +52,7 @@ library
     build-depends: base >=4.5 && <5
     build-depends: mtl >=2.0 && <2.3
     build-depends: sequence >= 0.9.8 && < 0.10
-    build-depends: logict >= 0.7.1.0 && < 0.8
+    build-depends: logict >= 0.7.1.0 && < 0.9
     build-depends: mmorph
     build-depends: transformers
 
